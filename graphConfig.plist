@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fieldformat</key>
+	<dict>
+		<key>field1</key>
+		<string>pdbcode</string>
+		<key>field2</key>
+		<string>pdbcode</string>
+		<key>field3</key>
+		<string>rmsd</string>
+		<key>field4</key>
+		<string>optLength</string>
+		<key>field5</key>
+		<string>alnLength</string>
+		<key>field6</key>
+		<string>ca1Length</string>
+		<key>field7</key>
+		<string>ca2Length</string>
+		<key>field8</key>
+		<string>similarity1</string>
+		<key>field9</key>
+		<string>similarity2</string>
+	</dict>
+	<key>EdgeConditions</key>
+	<dict>
+		<key>field3</key>
+		<real>1</real>
+		<key>field4</key>
+		<integer>35</integer>
+	</dict>
+	<key>VertexProperties</key>
+	<dict>
+		<key>field0</key>
+		<string>pdbcode</string>
+		<key>field6</key>
+		<string>length</string>
+	</dict>
+	<key>EdgeProperties</key>
+	<dict>
+		<key>field3</key>
+		<string>rmsd</string>
+		<key>field4</key>
+		<string>optLength</string>
+		<key>field5</key>
+		<string>alnLength</string>
+		<key>field6</key>
+		<string>ca1Length</string>
+		<key>field7</key>
+		<string>ca2Length</string>
+		<key>field8</key>
+		<string>similarity1</string>
+		<key>field9</key>
+		<string>similarity2</string>
+	</dict>
+</dict>
+</plist>
